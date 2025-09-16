@@ -8,7 +8,7 @@
 # 技能点
 
 - `ESM` + `TypeScript` 打底
-- Node.js CLI 程序的基本写法
+- Node.js CLI 程序的基本写法（含 yargs 的使用）
 - NPM 包的发布设置
 - Node.js `fs`、`path`、`buffer` 模块的基本用法
 - `fetch`、`URL` 标准 Web API 的用法
