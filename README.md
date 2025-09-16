@@ -9,6 +9,7 @@
 
 - `ESM` + `TypeScript` 打底
 - Node.js CLI 程序的基本写法
+- NPM 包的发布设置
 - Node.js `fs`、`path`、`buffer` 模块的基本用法
 - `fetch`、`URL` 标准 Web API 的用法
 - http 请求、响应的处理方法
