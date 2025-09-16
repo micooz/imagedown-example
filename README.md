@@ -1,15 +1,18 @@
 # imagedown-examples
 
+[![npm version](https://img.shields.io/npm/v/imagedown-example.svg)](https://www.npmjs.com/package/imagedown-example)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 图片下载工具案例，用于 Node.js 教学参考。
 
 # 技能点
 
-- ESM + TypeScript 打底
+- `ESM` + `TypeScript` 打底
 - Node.js CLI 程序的基本写法
-- Node.js fs、path、buffer 模块的基本用法
-- fetch、URL 标准 Web API 的用法
+- Node.js `fs`、`path`、`buffer` 模块的基本用法
+- `fetch`、`URL` 标准 Web API 的用法
 - http 请求、响应的处理方法
-- Promise 异步编程技巧
+- `Promise` 异步编程技巧
 - 手撕并发编程算法
 
 # 用法
